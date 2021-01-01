@@ -1,0 +1,21 @@
+{
+  "name": "polaris-blog-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.1",
+    "@nuxtjs/proxy": "^2.0.1",
+    "element-ui": "^2.13.2",
+    "highlight.js": "^10.1.2",
+    "nuxt": "^2.14.0",
+    "eslint": "^5.16.0",
+    "vue-wordcloud": "^1.1.1"
+  },
+  "devDependencies": {}
+}
