@@ -1,20 +1,22 @@
 # polaris-blog-portal
 
-## Build Setup
+## 博客系统前端门户基本完成！
 
-```bash
-# install dependencies
-$ npm install
+### 1. 博客门户
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+##### 概览：[Polaris博客门户](http://www.mpolaris.top)
 
-# build for production and launch server
-$ npm run build
-$ npm run start
+> 用户名：mpolaris   密码：12345
 
-# generate static project
-$ npm run generate
-```
+### 2. 后端接口API
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+##### 项目地址：[Polaris博客后端项目地址](https://github.com/mp-polaris/polaris-blog-system)
+
+##### 接口文档：[Polaris博客后端Swagger-UI](http://mpolaris.top:8080/swagger-ui.html)
+
+### 3. 管理中心
+
+##### 项目地址：[Polaris博客管理中心项目地址](https://github.com/mp-polaris/polaris-blog-admin)
+
+##### 概览：[Polaris博客管理中心](http://mp.mpolaris.top)
+
